@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreenVsBlue", "GreenVsBlue\GreenVsBlue.csproj", "{A5C01082-2839-4A0D-828B-9C4B1075F43C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5C01082-2839-4A0D-828B-9C4B1075F43C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5C01082-2839-4A0D-828B-9C4B1075F43C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5C01082-2839-4A0D-828B-9C4B1075F43C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5C01082-2839-4A0D-828B-9C4B1075F43C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
